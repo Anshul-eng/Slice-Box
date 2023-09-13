@@ -246,7 +246,7 @@ Distributed under the MIT License.
 
 Names -
 <br/>
-[Akhil Joshi](https://github.com/Akhil1998Joshi) - akhil.joshi1997@gmail.com
+[Anshul Gour](https://github.com/Anshul-eng) - 1anshulgour@gmail.com
 <br/>
 [Aayush Rajan Jha](https://github.com/AayushJha48) - aayushjha48@gmail.com
 
